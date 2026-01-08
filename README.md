@@ -1,6 +1,4 @@
-#Power BI Project | Healthcare Analytics Dashboard
-
-## Excited to share my end-to-end Power BI project focused on hospital performance analytics.
+ Excited to share my end-to-end Power BI project focused on hospital performance analytics.
 
 ##In this project, I designed an interactive dashboard using real-world healthcare data to analyze patients, departments, doctors, and billing insights.
 
