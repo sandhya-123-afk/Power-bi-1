@@ -1,16 +1,16 @@
-## Excited to share my end-to-end Power BI project focused on hospital performance analytics.
+#Excited to share my end-to-end Power BI project focused on hospital performance analytics.
 
-##In this project, I designed an interactive dashboard using real-world healthcare data to analyze patients, departments, doctors, and billing insights.
+In this project, I designed an interactive dashboard using real-world healthcare data to analyze patients, departments, doctors, and billing insights.
 
 # Key Highlights:
 
-##Built a star schema data model using Patient, Billing, and Department tables
+Built a star schema data model using Patient, Billing, and Department tables
 
-##Created interactive Power BI dashboards with slicers, drill-downs, and tooltips
+Created interactive Power BI dashboards with slicers, drill-downs, and tooltips
 
 #Developed DAX measures for KPIs such as:
 
-##Total Patients
+Total Patients
 
 ##Total Revenue
 
