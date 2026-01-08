@@ -4,7 +4,7 @@ Power BI Project | Healthcare Analytics Dashboard
 
 In this project, I designed an interactive dashboard using real-world healthcare data to analyze patients, departments, doctors, and billing insights.
 
-  Key Highlights:
+ # Key Highlights:
 
 Built a star schema data model using Patient, Billing, and Department tables
 
