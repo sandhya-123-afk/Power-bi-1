@@ -1,8 +1,10 @@
-#Excited to share my end-to-end Power BI project focused on hospital performance analytics.
+Power BI Project | Healthcare Analytics Dashboard
+
+🚀 Excited to share my end-to-end Power BI project focused on hospital performance analytics.
 
 In this project, I designed an interactive dashboard using real-world healthcare data to analyze patients, departments, doctors, and billing insights.
 
-# Key Highlights:
+🔍 Key Highlights:
 
 Built a star schema data model using Patient, Billing, and Department tables
 
@@ -18,7 +20,7 @@ Average Bill per Patient
 
 Average Length of Stay
 
-#Analyzed:
+Analyzed:
 
 Department-wise and doctor-wise performance
 
@@ -28,23 +30,23 @@ Patient demographics (age, gender, pediatric vs adult)
 
 Designed executive-level visuals for data-driven decision making
 
-# Tools & Skills Used:
+🛠 Tools & Skills Used:
 
 Power BI
 
 DAX
 
-Data Modeling
+Data Modeling (Star Schema)
 
 Data Visualization & Storytelling
 
-# Business Value:
+📈 Business Value:
 
 This dashboard helps hospital management identify high-performing departments and doctors, understand cost drivers, and improve operational efficiency.
 
-This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
+💡 This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
 
-# Hashtags 
+🔖 Hashtags (Very Important)
 
 #PowerBI
 #DataAnalytics
@@ -54,4 +56,5 @@ This project strengthened my skills in Power BI reporting, DAX calculations, and
 #DashboardDesign
 #DataVisualization
 #AnalyticsProject
+
 
