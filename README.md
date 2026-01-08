@@ -44,7 +44,7 @@ Revenue and cost breakdown (treatment, medicine, room charges)
 
 ## This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
 
-# Hashtags (Very Important)
+# Hashtags 
 
 #PowerBI
 #DataAnalytics
