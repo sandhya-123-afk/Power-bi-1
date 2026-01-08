@@ -1,4 +1,4 @@
-Power BI Project | Healthcare Analytics Dashboard
+#  Power BI Project | Healthcare Analytics Dashboard
 
   Excited to share my end-to-end Power BI project focused on hospital performance analytics.
 
