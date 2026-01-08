@@ -10,7 +10,7 @@ Built a star schema data model using Patient, Billing, and Department tables
 
 Created interactive Power BI dashboards with slicers, drill-downs, and tooltips
 
-Developed DAX measures for KPIs such as:
+# Developed DAX measures for KPIs such as:
 
 Total Patients
 
