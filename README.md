@@ -20,7 +20,7 @@ Average Bill per Patient
 
 Average Length of Stay
 
-Analyzed:
+# Analyzed:
 
 Department-wise and doctor-wise performance
 
@@ -30,23 +30,23 @@ Patient demographics (age, gender, pediatric vs adult)
 
 Designed executive-level visuals for data-driven decision making
 
- Tools & Skills Used:
+# Tools & Skills Used:
 
 Power BI
 
 DAX
 
-Data Modeling (Star Schema)
+Data Modeling
 
 Data Visualization & Storytelling
 
-  Business Value:
+#  Business Value:
 
 This dashboard helps hospital management identify high-performing departments and doctors, understand cost drivers, and improve operational efficiency.
 
   This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
 
-  Hashtags (Very Important)
+  Hashtags
 
 #PowerBI
 #DataAnalytics
