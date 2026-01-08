@@ -12,37 +12,37 @@ Created interactive Power BI dashboards with slicers, drill-downs, and tooltips
 
 Total Patients
 
-##Total Revenue
+Total Revenue
 
-##Average Bill per Patient
+Average Bill per Patient
 
-##Average Length of Stay
+Average Length of Stay
 
 #Analyzed:
 
-##Department-wise and doctor-wise performance
+Department-wise and doctor-wise performance
 
 Revenue and cost breakdown (treatment, medicine, room charges)
 
-##Patient demographics (age, gender, pediatric vs adult)
+Patient demographics (age, gender, pediatric vs adult)
 
-##Designed executive-level visuals for data-driven decision making
+Designed executive-level visuals for data-driven decision making
 
 # Tools & Skills Used:
 
-##Power BI
+Power BI
 
-##DAX
+DAX
 
-##Data Modeling
+Data Modeling
 
-##Data Visualization & Storytelling
+Data Visualization & Storytelling
 
 # Business Value:
 
-##This dashboard helps hospital management identify high-performing departments and doctors, understand cost drivers, and improve operational efficiency.
+This dashboard helps hospital management identify high-performing departments and doctors, understand cost drivers, and improve operational efficiency.
 
-## This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
+This project strengthened my skills in Power BI reporting, DAX calculations, and dashboard design aligned with real business scenarios.
 
 # Hashtags 
 
